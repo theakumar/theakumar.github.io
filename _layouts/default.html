@@ -114,6 +114,15 @@
                 </div>
                 {% endif %}
 
+                
+                <hr />
+
+                <strong>Navigation</strong><br />
+                    &nbsp;&raquo; <a href="/blog2/">Home</a> <br />
+                {% for i in site.urls %}
+                    &nbsp;&raquo; <a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
+                {% endfor %}
+                
                 <div class="social">
                     <ul>
                         {% for link in site.social %}
@@ -121,13 +130,6 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <hr />
-
-                <strong>Navigation</strong><br />
-                    &nbsp;&raquo; <a href="/">Home</a> <br />
-                {% for i in site.urls %}
-                    &nbsp;&raquo; <a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
-                {% endfor %}
               </div><!-- end /.fixed-condition -->
             </div>
 

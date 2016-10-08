@@ -32,9 +32,9 @@ share:
 
 urls:
     - text: About Me
-      url: /about/
+      url: /blog2/about/
     - text: Projects
-      url: /projects/
+      url: /blog2/projects/
     - text: Github
       url: https://github.com/agusmakmun
     - text: XML Feed

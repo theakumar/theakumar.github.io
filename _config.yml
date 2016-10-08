@@ -34,11 +34,11 @@ urls:
     - text: About Me
       url: /blog2//about/
     - text: Projects
-      url: /projects/
+      url: /blog2/projects/
     - text: Github
-      url: https://github.com/agusmakmun
+      url: https://github.com/vibrantabhi19
     - text: XML Feed
-      url: /feed.xml
+      url: /blog2/feed.xml
 
 url: "https://agusmakmun.github.io"
 baseurl: "/blog2"

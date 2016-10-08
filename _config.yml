@@ -32,7 +32,7 @@ share:
 
 urls:
     - text: About Me
-      url: /about/
+      url: /blog2//about/
     - text: Projects
       url: /projects/
     - text: Github

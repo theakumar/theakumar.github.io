@@ -12,7 +12,7 @@ tagarray: []
 collections:
   project:
     output: true
-    permalink: /blog2/project/:path/
+    permalink: /project/:path/
 
 social:
     - icon: fa-facebook
@@ -32,13 +32,13 @@ share:
 
 urls:
     - text: About Me
-      url: /blog2//about/
+      url: /about/
     - text: Projects
-      url: /blog2/projects/
+      url: /projects/
     - text: Github
-      url: https://github.com/vibrantabhi19
+      url: https://github.com/agusmakmun
     - text: XML Feed
-      url: /blog2/feed.xml
+      url: /feed.xml
 
 url: "https://agusmakmun.github.io"
 baseurl: "/blog2"

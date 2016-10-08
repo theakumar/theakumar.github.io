@@ -38,7 +38,7 @@ urls:
     - text: Github
       url: https://github.com/agusmakmun
     - text: XML Feed
-      url: /feed.xml
+      url: /blog2/feed.xml
 
 url: "https://vibrantabhi19.github.io/blog2"
 baseurl: "/blog2"
